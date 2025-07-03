@@ -17,7 +17,7 @@ A real-time driver safety monitoring system using **YOLOv8**, **MediaPipe FaceMe
 
 ---
 
-## 📷 Demo
+## 📷 ScreenShot
 
 ![Image alt](https://github.com/AbelPriyakumarP/Driver-Distraction-Detection-System/blob/6ca10c0faf6ea0a5ecff55c895eca96eea1367f2/driver_distraction_detection_system/alert_1751531346.jpg)
 
